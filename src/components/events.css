@@ -1,0 +1,67 @@
+
+.eve{
+    color: white;
+    padding-bottom: 90px;
+  }
+  
+  .more-event{
+    margin-top: 80px;
+    background-color: #20E7F4;
+    height: 40px;
+    width: 9rem;
+    border-radius: 10px 10px 10px 10px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+
+  }
+.container-event{
+  padding-top: 20px;
+
+}
+
+  
+  h7 {
+    color: white;
+  }
+  .row {
+    padding-right: 10px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    width: 100%;
+  }
+  .even1{
+    display: flex;
+    padding-right: 50px;
+  }
+  
+  .bro {
+    height: 100%;
+  }
+  
+  .ha {
+    padding-left: 6px;
+  }
+  .hu{
+    width: 60px;
+    height: 30px;
+    border-radius: 16px 1px 1px 1px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    background-color: #20E7F4;
+    font-weight: 700;
+  }
+  .date{
+    width: 60px;
+    height: 30px;
+    border-radius: 1px 1px 16px 1px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-weight: 700;
+  }
+
+
+  
